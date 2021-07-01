@@ -1,2 +1,2 @@
-# Exercises for Programmers Solutions
-These are my solutions to the 57 problems given forth by *Exercises for Programmers: 57 Challenges to Develop Your Coding Skills* by Brian P. Hogan
+# My Exercises for Programmers Solutions
+I went to the library recently and while browsing the Computer Science section, I found *Exercises for Programmers: 57 Challenges to Develop Your Coding Skills* by Brain P. Hogan. Upon looking futher, I immediately knew that this would be great for me to improve my proficency in C++. Thus, here are my solutions to the 57 problems given by *Exercises for Programmers: 57 Challenges to Develop Your Coding Skills* by Brian P. Hogan.
